@@ -1,6 +1,6 @@
 # enhanced-cd-on-apple-silicon
 
-1. Insert your EnhancedCD to an optical drive attachec to your Apple Silicon Mac.
+1. Insert your EnhancedCD to an optical drive attached to your Apple Silicon Mac.
 1. Find the data partition on the CD, look for the Apple HFS filesystem using the `diskutil list` command 
 
 ```
